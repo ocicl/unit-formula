@@ -1,0 +1,10 @@
+* unit-formula
+
+Common Lisp library for unit conversions and unit verified formulas
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Ramarren/unit-formula.git   |
+| commit  | f80d5c3  |
+| systems | unit-formula |
+|---------+-------------------------------------------|
+
